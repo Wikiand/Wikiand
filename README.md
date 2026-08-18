@@ -1,6 +1,6 @@
  Hi, I'm Christine Nyambura 
 
-Software Developer | QA Automation | Cybersecurity
+Software Engineer | QA Automation | Cybersecurity
 
 I build practical software projects and focus on writing clean, reliable code. My interests include Java development, automated testing, cloud security, Artificial Intelligence and cyberecurity.
 
