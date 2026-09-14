@@ -1,29 +1,96 @@
- Hi, I'm Christine Nyambura 
+Hey, I’m Christine 👋
 
-Software Engineer | QA Automation | Cybersecurity
+Software Developer | Backend & Cybersecurity
 
-I build practical software projects and focus on writing clean, reliable code. My interests include Java development, automated testing, cloud security, Artificial Intelligence and cyberecurity.
+I build software with a focus on backend systems, cybersecurity, and practical problem-solving.
 
- What I work with
+Currently exploring how secure applications are designed, built, tested, and deployed — while turning ideas into working projects.
 
-- Java
-- Git and GitHub
-- Test automation
-- SQL
-- Cybersecurity fundamentals
-- Cloud security
+⚙️ Backend        🔐 Cybersecurity
+☕ Java            🐧 Linux
+🗄️ Databases      🤖 AI
 
-Featured projects
+⸻
 
-- **Banking App** — A command-line Java banking application with user accounts, transfers, savings interest, and investments.
-- **More projects coming soon**
+🛠️ Tech Stack
 
- Current focus
+Languages
 
-- Building stronger Java projects
-- Improving software testing skills
-- Learning cloud and cybersecurity practices
+Java Python SQL JavaScript
 
- Connect
+Backend & Development
 
-- GitHub: [@Wikiand](https://github.com/Wikiand)
+Spring Boot REST APIs Maven JUnit Git
+
+Security
+
+Linux Nmap Burp Suite Metasploit Wireshark
+
+Currently Learning
+
+Cloud Docker DevSecOps AI Security
+
+⸻
+
+🚀 Featured Projects
+
+🛡️ File Guard
+
+A Java-based file integrity monitoring and security application designed to detect and track unauthorized file changes.
+
+Java • File Systems • SHA-256 • Security Monitoring
+
+🔎 Mini Log Analyzer
+
+A lightweight Java security tool that analyzes application logs, detects suspicious activity, and generates a basic security/health assessment.
+
+Java • Log Analysis • Security Monitoring
+
+🏠 Rental Tracker
+
+A Java-based rental management application featuring service layers, persistence, testing, and CLI interaction.
+
+Java • OOP • SQLite • JUnit • Maven
+
+⸻
+
+🎯 What I’m Building Toward
+
+Software Development
+        ↓
+     Backend
+        ↓
+   Cloud / DevOps
+        ↓
+    Cybersecurity
+        ↓
+     AI Security
+
+I’m particularly interested in secure backend systems, application security, digital forensics, and AI-powered security tools.
+
+⸻
+
+📚 Currently Learning
+
+* Backend development with Java
+* Secure software development
+* Linux & system administration
+* Application security
+* Cloud security
+* AI applications & security
+
+⸻
+
+⚡ A little about me
+
+I like building things that make me ask:
+
+“Okay… but how could someone break this?” 🔐
+
+Then I try to make it harder to break.
+
+⸻
+
+📫 Let’s Connect
+
+I’m always interested in collaborating on interesting software, cybersecurity, and AI projects.
