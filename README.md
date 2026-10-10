@@ -1,96 +1,89 @@
-Hey, I’m Christine 👋
+# Christine Nyambura
 
-Software Developer | Backend & Cybersecurity
+### Software Developer | Cybersecurity & AI
 
-I build software with a focus on backend systems, cybersecurity, and practical problem-solving.
+I build practical software with a focus on secure development, defensive security tools, and applying AI to cybersecurity.
 
-Currently exploring how secure applications are designed, built, tested, and deployed — while turning ideas into working projects.
+My work combines software engineering fundamentals with hands-on exploration of security monitoring, file integrity verification, log analysis, and secure application design. I’m particularly interested in building tools that help identify risks, investigate suspicious activity, and improve software security.
 
-⚙️ Backend        🔐 Cybersecurity
-☕ Java            🐧 Linux
-🗄️ Databases      🤖 AI
+* **Core language:** Java
+* **Development:** Object-oriented programming, Maven, SQL, SQLite, JUnit
+* **Security:** Linux, file integrity monitoring, log analysis, digital forensics fundamentals
+* **Exploring:** Security operations (SOC), AI-assisted security analysis, DevSecOps
 
-⸻
+---
 
-🛠️ Tech Stack
+## Featured Projects
 
-Languages
+### FileGuard — File Integrity Monitoring
 
-Java Python SQL JavaScript
+A Java-based security tool designed to establish file integrity baselines, detect file changes, and support security event monitoring.
 
-Backend & Development
+* File hashing and integrity verification
+* Baseline management and change detection
+* File monitoring and security event history
+* JSON reporting and security-focused logging
 
-Spring Boot REST APIs Maven JUnit Git
+**Technologies:** Java · JavaFX · SHA-256 · File Systems · JSON
 
-Security
+### TraceFinder — Security Log Analysis
 
-Linux Nmap Burp Suite Metasploit Wireshark
+A Java application for examining log data and identifying relevant events through filtering and analysis.
 
-Currently Learning
+* Log analysis and event investigation
+* Time-window filtering for targeted investigations
+* Input validation and centralized security limits
+* Automated testing and code coverage
 
-Cloud Docker DevSecOps AI Security
+**Technologies:** Java 17 · Maven · JUnit · JaCoCo
 
-⸻
+### Rental Tracker — Rental Management System
 
-🚀 Featured Projects
+A Java application for managing rental items and user interactions, with a focus on maintainable application architecture and data persistence.
 
-🛡️ File Guard
+* User registration and authentication
+* Rental item management and rental workflows
+* Service and repository layers
+* SQLite persistence, validation, and integration testing
+* Docker-based development support
 
-A Java-based file integrity monitoring and security application designed to detect and track unauthorized file changes.
+**Technologies:** Java 17 · SQLite · Maven · JUnit · Docker
 
-Java • File Systems • SHA-256 • Security Monitoring
+---
 
-🔎 Mini Log Analyzer
+## Technical Skills
 
-A lightweight Java security tool that analyzes application logs, detects suspicious activity, and generates a basic security/health assessment.
+| Area                 | Technologies and Concepts                                                         |
+| -------------------- | --------------------------------------------------------------------------------- |
+| Programming          | Java, Python, JavaScript, SQL                                                     |
+| Software Engineering | OOP, input validation, modular design, testing, debugging                         |
+| Backend & Data       | Maven, SQLite, relational databases, REST API fundamentals                        |
+| Cybersecurity        | File integrity monitoring, log analysis, security fundamentals, digital forensics |
+| Tools & Environment  | Git, Linux, GitHub Actions, Docker                                                |
+| AI & Security        | AI-assisted security analysis, security automation, AI security fundamentals      |
 
-Java • Log Analysis • Security Monitoring
+## Professional Development
 
-🏠 Rental Tracker
+I continue to strengthen my foundations in software engineering and cybersecurity through hands-on projects, structured learning, and practical security exercises.
 
-A Java-based rental management application featuring service layers, persistence, testing, and CLI interaction.
+My interests include:
 
-Java • OOP • SQLite • JUnit • Maven
+* Security operations and SIEM alert investigation
+* Application security and secure software development
+* Digital forensics and incident investigation
+* AI-assisted defensive security tools
+* Cybersecurity, digital governance, and responsible technology
 
-⸻
+I also volunteer with the **FAO One Health and Antimicrobial Resistance (AMR) campaign**, supporting digital outreach on global health challenges.
 
-🎯 What I’m Building Toward
+## Let's Connect
 
-Software Development
-        ↓
-     Backend
-        ↓
-   Cloud / DevOps
-        ↓
-    Cybersecurity
-        ↓
-     AI Security
+I'm interested in opportunities and collaborations across software development, cybersecurity, and AI-driven security tooling.
 
-I’m particularly interested in secure backend systems, application security, digital forensics, and AI-powered security tools.
+* **GitHub:** [@Wikiand](https://github.com/Wikiand
+* **LinkedIn:** https://www.linkedin.com/in/christine-nyambura-15817b242/
 
-⸻
 
-📚 Currently Learning
+---
 
-* Backend development with Java
-* Secure software development
-* Linux & system administration
-* Application security
-* Cloud security
-* AI applications & security
-
-⸻
-
-⚡ A little about me
-
-I like building things that make me ask:
-
-“Okay… but how could someone break this?” 🔐
-
-Then I try to make it harder to break.
-
-⸻
-
-📫 Let’s Connect
-
-I’m always interested in collaborating on interesting software, cybersecurity, and AI projects.
+*Building software. Strengthening security. Exploring the intersection of AI and technology.*
